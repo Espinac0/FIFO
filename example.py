@@ -10,6 +10,6 @@ def check_if_aprive_or_not() -> str:
     if isinstance(result, str):
         if result.lower() == 'yes':
             return('Aprobado')
-        return 'SUSPENDIDO'
+        return 'MEGASUSPENDIDO'
     
 print(check_if_aprive_or_not())
