@@ -1,6 +1,6 @@
 OK_RESULT = 'yes'
 FATAL_RESULT = 'no'
-
+pepe = 9
 
 
 def check_if_aprive_or_not() -> str:
